@@ -1,1 +1,1 @@
-Test POS System - Springboot - Standalone App
+Test POS System - Spring App
